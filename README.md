@@ -9,6 +9,5 @@ Tech:
 5. Section
 6. Div
 7. Texts(h1 - h6, p, span,b, i)
---
 - Ul, li
 - Table 
