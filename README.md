@@ -12,8 +12,3 @@ Tech:
 --
 - Ul, li
 - Table 
-
-TODO: 
-1. we will create a nav bar 
-2. We will create a tale 
-3. Some design 
